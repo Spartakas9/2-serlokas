@@ -9,7 +9,7 @@ _25 Group website project_
 
 This project is for educational porpuses only.
 
-Site published at https://github.com/Spartakas9/3-mergaite
+Site published at https://github.com/Spartakas9/2-serlokas
 
 Design: [Šerlokas](https://spartakas9.github.io/2-serlokas/)
 
